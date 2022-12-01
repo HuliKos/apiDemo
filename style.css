@@ -1,0 +1,11 @@
+.card {
+    border: solid black 2px;
+    padding: 2px;
+    margin: 10px;
+}
+
+.characters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
